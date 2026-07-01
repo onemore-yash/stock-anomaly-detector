@@ -6,4 +6,6 @@ streamlit
 yfinance
 psycopg2-binary
 flask
--e .
+matplotlib
+seaborn
+#-e .
